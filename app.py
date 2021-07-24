@@ -94,4 +94,4 @@ async def on_message(message):
 
 
     
-client.run('ODUwNDU3MDMwOTY3Njg5MjE3.YLp_1A.4ug5JF7rx3Gwze0NCgmwHH90wnA')
+client.run('ENTER YOUR BOT TOKKEN')
